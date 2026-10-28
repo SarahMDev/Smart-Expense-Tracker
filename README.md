@@ -26,3 +26,8 @@ Smart Expense Tracker is a personal expense management application built with Dj
 
 ### Total Expenses by Date
 ![Total Expenses by Date](screenshots/total-expenses-by-date.png)
+
+### Highest Expense
+![Highest Expense](screenshots/highest-expense.png)
+
+
